@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.navbar {
+    padding: 0.5rem 4rem !important;
+    box-shadow: 0px 1px 1px #256ddc;
+  }
+
+  .navbar h1{
+    font-family: 'Bebas Neue';
+    margin:auto;
+    color:#222;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 3rem;
+     }
+    
+  
+ .navbar p{
+    font-family: 'Roboto', sans-serif;
+    margin:auto;
+    margin-left: 1rem;
+    color:#222;
+    text-decoration: none;
+    text-transform: uppercase;
+    display:flex;
+    justify-content: center;
+ }
+

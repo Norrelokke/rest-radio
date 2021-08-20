@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="60" viewBox="0 0 568 228">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 12.641px;
+        fill: #256ddc;
+        font-family: Reey;
+      }
+
+      .cls-2 {
+        font-size: 72px;
+        font-family: "Bebas Neue";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="REACT_" data-name="REACT " class="cls-1" transform="translate(1.09 93.473) scale(5.696)">REACT </text>
+  <text id="RADIO_" data-name="RADIO " class="cls-2" transform="translate(46.09 225.084) scale(3.042)">RADIO </text>
+</svg>
